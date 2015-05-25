@@ -25,7 +25,7 @@ The listener receives the shell and you may begin executing commands. #hackthepl
 ![alt tag](http://i.imgur.com/NVQqBOb.png)
 
 Easy as pie. The core feature of the shell is it's resilience to CTRL+C sighups.
-Additionally, the implant will re-iniatiate connection every 5 seconds if the socket dies. Ncat is a fantastic tool, but I find that the best software is the one that does one thing only and does that one thing well. Ergo srs. 
+Additionally, the implant will re-iniatiate connection every 5 seconds if the socket dies. Ncat is a fantastic tool, but I find that the best software does one thing and does that one thing well. Ergo srs. 
 
 Public version sends traffic over clear-text, private version establishes an authenticated ssh style TLS tunnel.
 
