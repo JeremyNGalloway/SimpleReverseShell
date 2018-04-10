@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 #Simple Reverse Shell Written by: Dave Kennedy (ReL1K)
 #Keep-alive mod by http://www.shellguardians.com/2011/07/simple-python-reverse-shell.html
-#cli portability and win32 bin+packing by: cypherg
+#cli portability and win32 bin+packing by: JG
 
 
 import socket
